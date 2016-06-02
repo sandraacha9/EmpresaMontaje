@@ -1,0 +1,1 @@
+update productos set PrecioProducto = PrecioProductoFuncion(1) where idProductos = 1;

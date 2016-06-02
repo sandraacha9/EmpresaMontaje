@@ -1,0 +1,232 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+EmpresaMontaje
+</name>
+</assembly>
+<members>
+<member name="P:EmpresaMontaje.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:EmpresaMontaje.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:EmpresaMontaje.My.Resources.Resources._001">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmpresaMontaje.My.Resources.Resources._005">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmpresaMontaje.My.Resources.Resources._547">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmpresaMontaje.My.Resources.Resources.Anterior">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmpresaMontaje.My.Resources.Resources.Primero">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmpresaMontaje.My.Resources.Resources.Siguiente">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:EmpresaMontaje.My.Resources.Resources.Ultimo">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:EmpresaMontaje.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.clientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.componentesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.componentesdeproductoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.lineasdepedidoclientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.lineasdepedidoproveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.pedidosclientesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.pedidosproveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.productosDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.proveedoresDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.clientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.componentesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.componentesdeproductoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.lineasdepedidoclientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.lineasdepedidoproveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.pedidosclientesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.pedidosproveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.productosRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.proveedoresRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.clientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.componentesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.componentesdeproductoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.lineasdepedidoclientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.lineasdepedidoproveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.pedidosclientesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.pedidosproveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.productosRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet.proveedoresRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.clientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.componentesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.componentesdeproductoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.lineasdepedidoclientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.lineasdepedidoproveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.pedidosclientesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.pedidosproveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.productosTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.proveedoresTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:EmpresaMontaje.empresademontajeDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(EmpresaMontaje.empresademontajeDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:EmpresaMontaje.empresademontajeDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(EmpresaMontaje.empresademontajeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:EmpresaMontaje.empresademontajeDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(EmpresaMontaje.empresademontajeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:EmpresaMontaje.empresademontajeDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:EmpresaMontaje.empresademontajeDataSetTableAdapters.TableAdapterManager.UpdateAll(EmpresaMontaje.empresademontajeDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:EmpresaMontaje.empresademontajeDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

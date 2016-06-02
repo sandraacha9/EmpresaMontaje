@@ -1,0 +1,1 @@
+update pedidosproveedores set PrecioTotalPedidoProveedor = PrecioTotalPedidoProveedoresFuncion(1) where idPedidosProveedores = 1;
